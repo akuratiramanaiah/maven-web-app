@@ -8,7 +8,7 @@
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 <p> THANKS FOR CHOOSING DevSecOps with AWS &&&&& AI !!!!!</p>
-<marquee>!!!!Learn Here and Lead any where!!!!!!!!! </marquee>
+<marquee>!!!!Learn Here and Lead any where  in india!!!!!!!!! </marquee>
 
 
 </body>
